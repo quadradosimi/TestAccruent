@@ -8,7 +8,7 @@ To run the application is necessary download the project at GitHub.
 
 Run Back-end
 	
-	Open the .Net 8 project on TestMoutTi.sln file. Change the ConnectionStrings with your database settings, at file appsettings.json.
+	Open the .Net 8 project on TestAccruent.sln file. Change the ConnectionStrings with your database settings, at file appsettings.json.
 	Run the migration to build database structure with code below 
 
 		add-migration [name]
