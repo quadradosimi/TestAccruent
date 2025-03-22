@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\controllers\\stockcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:controllers\\stockcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\service\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:service\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\migrations\\20250321192142_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:migrations\\20250321192142_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\entity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:entity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\model\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:model\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB5B88-0D88-43D0-8674-91DF3F6FF641}|..\\TestProject2\\TestProject.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testproject2\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\service\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:service\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\service\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:service\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\model\\reportstockbalancebyproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:model\\reportstockbalancebyproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\model\\reportstockbalancebyproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:model\\reportstockbalancebyproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\model\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:model\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB5B88-0D88-43D0-8674-91DF3F6FF641}|..\\TestProject2\\TestProject.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testproject2\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\testaccruent.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:testaccruent.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|c:\\users\\lenovo\\documents\\testaccruent\\accruent\\testaccruent\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|TestAccruent.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockController .cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Controllers\\StockController .cs",
+              "RelativeDocumentMoniker": "Controllers\\StockController .cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Controllers\\StockController .cs",
+              "RelativeToolTip": "Controllers\\StockController .cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:14:09.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:45:51.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Model\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Model\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Model\\UserLogin.cs",
+              "RelativeToolTip": "Model\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:25:06.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\IProductService.cs",
+              "RelativeToolTip": "Service\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:55:47.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vyIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:52:14.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Entity\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Entity\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:21:17.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250321192142_test.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Migrations\\20250321192142_test.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250321192142_test.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Migrations\\20250321192142_test.cs",
+              "RelativeToolTip": "Migrations\\20250321192142_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:21:43.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:58:47.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestProject2\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject2\\Test1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestProject2\\Test1.cs",
+              "RelativeToolTip": "..\\TestProject2\\Test1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:08:01.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportStockBalanceByProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Model\\ReportStockBalanceByProductRequest.cs",
+              "RelativeDocumentMoniker": "Model\\ReportStockBalanceByProductRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Model\\ReportStockBalanceByProductRequest.cs",
+              "RelativeToolTip": "Model\\ReportStockBalanceByProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:07:24.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStockService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\IStockService.cs",
+              "RelativeDocumentMoniker": "Service\\IStockService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\IStockService.cs",
+              "RelativeToolTip": "Service\\IStockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:40:06.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\IReportService.cs",
+              "RelativeDocumentMoniker": "Service\\IReportService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\IReportService.cs",
+              "RelativeToolTip": "Service\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:01:03.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:26:11.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\AuthService.cs",
+              "RelativeToolTip": "Service\\AuthService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:21:33.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\IAuthService.cs",
+              "RelativeToolTip": "Service\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:21:46.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T13:35:51.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TestProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestProject2\\TestProject.csproj",
+              "RelativeDocumentMoniker": "..\\TestProject2\\TestProject.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestProject2\\TestProject.csproj",
+              "RelativeToolTip": "..\\TestProject2\\TestProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T14:07:22.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:22:01.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TestAccruent.http",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\TestAccruent.http",
+              "RelativeDocumentMoniker": "TestAccruent.http",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\TestAccruent.http",
+              "RelativeToolTip": "TestAccruent.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-20T13:18:13.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T13:13:20.288Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:48:17.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\ReportService.cs",
+              "RelativeDocumentMoniker": "Service\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\ReportService.cs",
+              "RelativeToolTip": "Service\\ReportService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:54:18.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportStockBalanceByProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Model\\ReportStockBalanceByProductResponse.cs",
+              "RelativeDocumentMoniker": "Model\\ReportStockBalanceByProductResponse.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Model\\ReportStockBalanceByProductResponse.cs",
+              "RelativeToolTip": "Model\\ReportStockBalanceByProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:05:37.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\StockService.cs",
+              "RelativeDocumentMoniker": "Service\\StockService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Service\\StockService.cs",
+              "RelativeToolTip": "Service\\StockService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:19:59.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:29:00.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Model\\Stock.cs",
+              "RelativeDocumentMoniker": "Model\\Stock.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TestAccruent\\Accruent\\TestAccruent\\Model\\Stock.cs",
+              "RelativeToolTip": "Model\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:22:54.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

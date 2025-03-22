@@ -1,10 +1,10 @@
-# React + .NET 8
+# React + .NET 8 Employee Crud
 
-## TEST Accruent
+## TEST Mout Ti
 
 To run the application is necessary download the project at GitHub.
 
-	https://github.com/quadradosimi/TestAccruent.git
+	https://github.com/quadradosim/Mouts.git
 
 Run Back-end
 	
@@ -17,15 +17,15 @@ Run Back-end
 
 		update-database
 		
-	Choice https in Visual Studio to start the software and run. The swagger will appear.
+	Choice https to start the software and run. After builded, use swagger to get the token from API. Use the loginJWT endpoint and
+	set the parameter username to admin and Password to password and Execute. The response have the token. (this token will be use in front-end)
 		
 Run Front-end
 
-	The front-end application is inside folder Web/TestAccruent. Change SERVER_URL at the Web/TestAccruent/config.json () with the right API url. 
-	At the prompt get in Web/TestAccruent folder and run code below
+	The front-end application is inside folder Web/TestMountTi. Change SERVER_URL at the Web/TestMountTi/src/config.json () with the right API url. 
+	And change de TOKEN with the value in (this token will be use in front-end). At the prompt get in Web/TestMountTi folder and run code below
 	
-		npm i
-		
 		npm run dev
 		
-	The locally server will run and show the url to set in browser. 
+	The locally server will run and show the url to set in browser. In the login page use admin@admin to the user and 1234 to the password.
+	With this user is possible add the initial user and make the crud.
