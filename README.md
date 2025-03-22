@@ -17,7 +17,7 @@ Run Back-end
 
 		update-database
 		
-	Choice https in Visual Studio to start the software and run. The swagger will appear.
+	Run the TestAccruent.sln file to open the project inside the Visual Studio. Choice https in Visual Studio to start the software and run. The swagger will appear.
 		
 Run Front-end
 
