@@ -142,94 +142,89 @@ const getJwtToken = async () => {
       setIsLoading(false);
   }
 };
-
-  if (stock.length < 1) {
-    return <h1>Estoque sem Movimentação</h1>;
-  } else {
-    return (
-        <div className="container">
-          <div className="row">
-            <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
-              <div className="container-fluid">
-                <div className="navbar-brand" href="#">
-                  <span className="navbar-text">Relatório de estoque</span>
-                </div>
-                <button
-                  className="navbar-toggler"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#mynavbar"
-                >
-                  <span className="navbar-toggler-icon"></span>
-                </button>
-                <div className="collapse navbar-collapse" id="mynavbar">
-                  <ul className="navbar-nav ms-auto">
-                    <li className="nav-item">
-                      <Link className="nav-link" to="/create-stock">
-                        Nova Movimentação
-                      </Link>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </nav>
-          </div>
-          <div className="row">
-            <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
+  return (
+      <div className="container">
+        <div className="row">
+          <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
             <div className="container-fluid">
-              <div className="row">
-                <div className='col-6'>
-                    <select className="form-control" id="productId" name="productId" onChange={handelInput}>
-                        <option value="">Selecione uma opção</option> 
-                        {products.map(product => (<option key={product.name} value={product.id}>{product.name}</option>))}
-                    </select>
-                  </div>
-                  <div className='col-5'>
-                  <input type="date" className="form-control" id="movementDate" name="movementDate" onChange={handelInput} />
-                  </div>
-                  <div className='col-1'>
-                    <button type="submit" id="btnSearch" className="btn btn-primary submit-btn" onClick={() => handelSearch()} >
-                      <i className="fa fa-search"
-                        aria-hidden="true"                        
-                      ></i>
-                  </button>
-                </div>                  
+              <div className="navbar-brand" href="#">
+                <span className="navbar-text">Relatório de estoque</span>
               </div>
+              <button
+                className="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#mynavbar"
+              >
+                <span className="navbar-toggler-icon"></span>
+              </button>
+              <div className="collapse navbar-collapse" id="mynavbar">
+                <ul className="navbar-nav ms-auto">
+                  <li className="nav-item">
+                    <Link className="nav-link" to="/create-stock">
+                      Nova Movimentação
+                    </Link>
+                  </li>
+                </ul>
               </div>
-            </nav>
-          </div>
-          <div className="row">
-            <table className="table table-striped">
-              <thead>
-                <tr>
-                  <th>Nome do Produto</th>
-                  <th>Código do produto</th>
-                  <th>Entradas</th>
-                  <th>Saídas</th>
-                  <th>Saldo</th>
-                </tr>
-              </thead>
-              <tbody>
-                {stock?.map((item, i) => {
-                  return (
-                    <tr key={i + 1}>
-                      <td>{item.productName}</td>
-                      <td>{item.productCode}</td>
-                      <td>{item.totalCredits}</td>
-                      <td>{item.totalDebits}</td>
-                      <td>{item.totalBalance}</td>
-                    </tr>
-                  );
-                })}
-              </tbody>
-            </table>
-          </div>
-          <div className="row mb-4">
-              <div className="text-danger text-center font-weight-bold" id="errorMessage"></div>
-          </div>
-      </div>
-    )
-  }
+            </div>
+          </nav>
+        </div>
+        <div className="row">
+          <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
+          <div className="container-fluid">
+            <div className="row">
+              <div className='col-6'>
+                  <select className="form-control" id="productId" name="productId" onChange={handelInput}>
+                      <option value="">Selecione uma opção</option> 
+                      {products.map(product => (<option key={product.name} value={product.id}>{product.name}</option>))}
+                  </select>
+                </div>
+                <div className='col-5'>
+                <input type="date" className="form-control" id="movementDate" name="movementDate" onChange={handelInput} />
+                </div>
+                <div className='col-1'>
+                  <button type="submit" id="btnSearch" className="btn btn-primary submit-btn" onClick={() => handelSearch()} >
+                    <i className="fa fa-search"
+                      aria-hidden="true"                        
+                    ></i>
+                </button>
+              </div>                  
+            </div>
+            </div>
+          </nav>
+        </div>
+        <div className="row">
+          <table className="table table-striped">
+            <thead>
+              <tr>
+                <th>Nome do Produto</th>
+                <th>Código do produto</th>
+                <th>Entradas</th>
+                <th>Saídas</th>
+                <th>Saldo</th>
+              </tr>
+            </thead>
+            <tbody>
+              {stock?.map((item, i) => {
+                return (
+                  <tr key={i + 1}>
+                    <td>{item.productName}</td>
+                    <td>{item.productCode}</td>
+                    <td>{item.totalCredits}</td>
+                    <td>{item.totalDebits}</td>
+                    <td>{item.totalBalance}</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+        <div className="row mb-4">
+            <div className="text-danger text-center font-weight-bold" id="errorMessage"></div>
+        </div>
+    </div>
+  )
 }
 
 export default reportStockMovement;
