@@ -4,7 +4,7 @@
 
 To run the application is necessary download the project at GitHub.
 
-	https://github.com/quadradosim/TestAccruent.git
+	https://github.com/quadradosimi/TestAccruent.git
 
 Run Back-end
 	
